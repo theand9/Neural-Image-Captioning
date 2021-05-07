@@ -1,6 +1,7 @@
 # Data file
 data/
 notebooks/glove.6B.300d.txt
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
